@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ## My Badge
-![gde](https://img.shields.io/badge/-Developers%20Experts-DB4437?style=for-the-badge&logo=google&logoColor=FFFFFF)
+![gde](https://img.shields.io/badge/-Developers%20Experts-DB4437?style=for-the-badge&logo=google&logoColor=white)
+[dsc]: https://developers.google.cn/community/experts/directory/profile/profile-jirawat_karanwittayakarn
 
 ![firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white)
 ![gcloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
