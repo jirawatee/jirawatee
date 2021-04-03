@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jirawatee&theme=gruvbox)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jirawatee&show_icons=true&theme=gruvbox)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jirawatee&show_icons=true&theme=gruvbox&hide=issues)
