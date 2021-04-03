@@ -24,10 +24,10 @@ My passion is to help developers learn and adopt new mobile development methodol
 While I am not developing, I like to spend time with my wife and child.
 <img src="https://raw.githubusercontent.com/samtstern/samtstern/master/SparkyWFH-01.png" align="right" width="300px"></img>
 
-## My Badge
+## My badge
 [![gde](https://img.shields.io/badge/-Developers%20Experts-DB4437?style=for-the-badge&logo=google&logoColor=white)][gde]
 
-## Tech Stack
+## Tech stack
 ![firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white)
 ![firebase](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![firebase](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
