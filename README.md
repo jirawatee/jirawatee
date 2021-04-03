@@ -1,6 +1,5 @@
-### Hi there 👋
-<img src="https://raw.githubusercontent.com/samtstern/samtstern/master/SparkyWFH-01.png" align="right" width="300px"></img>
 <!--
+### Hi there 👋
 **jirawatee/jirawatee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ## About me
 I am a software developer with over 10 years of experience. I currently work at LINE Thailand, as a Technology Evangelist. Since discovering Firebase, I have spent most of my time learning about Firebase.
 
@@ -21,7 +21,8 @@ I live in Bangkok, Thailand where I am actively involved in the local Firebase c
 
 My passion is to help developers learn and adopt new mobile development methodologies and frameworks like Firebase.
 
-While I am not developing, I like to spend time with my wife and child. 
+While I am not developing, I like to spend time with my wife and child.
+<img src="https://raw.githubusercontent.com/samtstern/samtstern/master/SparkyWFH-01.png" align="right" width="300px"></img>
 
 ## My Badge
 [![gde](https://img.shields.io/badge/-Developers%20Experts-DB4437?style=for-the-badge&logo=google&logoColor=white)][gde]
