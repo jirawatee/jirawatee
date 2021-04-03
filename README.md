@@ -27,7 +27,7 @@ While I am not developing, I like to spend time with my wife and child.
 - 🇲🇲 ML Kit: Machine Learning for Mobile Developers (2019)
 - 🇸🇬 Scheduling a job using Cloud Functions for Firebase (2019)
 - 🇱🇦 Building Chatbot using Dialogflow and Firebase (2018)
-- 🇯🇵 Building your Android app faster and smaller than ever (2018)
+- 🇯🇵 [Building your Android app faster and smaller than ever (2018)](https://youtu.be/tfBIkBbQBbE)
 - 🇮🇩 Bringing powerful machine learning features to your app (2018)
 - 🇵🇭 Bringing powerful machine learning features to your app (2018)
 
