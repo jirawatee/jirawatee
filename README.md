@@ -22,7 +22,8 @@ I live in Bangkok, Thailand where I am actively involved in the local Firebase c
 My passion is to help developers learn and adopt new mobile development methodologies and frameworks like Firebase.
 
 While I am not developing, I like to spend time with my wife and child.
-<img src="https://raw.githubusercontent.com/samtstern/samtstern/master/SparkyWFH-01.png" align="right" width="300px"></img>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jirawatee&show_icons=true&theme=slateorange&hide=issues,contribs)
 
 ## My badge
 [![gde](https://img.shields.io/badge/-Developers%20Experts-DB4437?style=for-the-badge&logo=google&logoColor=white)][gde]
@@ -38,8 +39,6 @@ While I am not developing, I like to spend time with my wife and child.
 ![firebase](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![firebase](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![firebase](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jirawatee&show_icons=true&theme=slateorange&hide=issues,contribs)
 
 ## Contact me
 [![line](https://img.shields.io/badge/Line-00C300?style=flat&logo=line&logoColor=white)][line]
