@@ -38,6 +38,10 @@ While I am not developing, I like to spend time with my wife and child.
 ![firebase](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![firebase](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+## Public speaking
+- a
+- b
+
 ## Contact me
 [![line](https://img.shields.io/badge/Line-00C300?style=flat&logo=line&logoColor=white)][line]
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)][twitter]
