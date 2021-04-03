@@ -23,8 +23,6 @@ My passion is to help developers learn and adopt new mobile development methodol
 
 While I am not developing, I like to spend time with my wife and child.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jirawatee&show_icons=true&theme=slateorange&hide=issues,contribs)
-
 ## My badge
 [![gde](https://img.shields.io/badge/-Developers%20Experts-4285f4?style=for-the-badge&logo=google&logoColor=white&labelColor=484a52)][gde]
 
