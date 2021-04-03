@@ -2,7 +2,6 @@
 
 <!--
 **jirawatee/jirawatee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
 Here are some ideas to get you started:
 
@@ -14,6 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+## My Badge
+![gde](https://img.shields.io/badge/-Developers%20Experts-DB4437?style=for-the-badge&logo=google&logoColor=FFFFFF)
 
 ![firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white)
 ![gcloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
