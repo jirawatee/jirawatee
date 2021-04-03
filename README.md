@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 [![gde](https://img.shields.io/badge/-Developers%20Experts-DB4437?style=for-the-badge&logo=google&logoColor=white)][gde]
 
 ## Tech Stack
-[![firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white)][firebase]
+[firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white)
+
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
