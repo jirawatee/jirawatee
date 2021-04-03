@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="https://raw.githubusercontent.com/samtstern/samtstern/master/SparkyWFH-01.png" align="right" width="300px">
 <!--
 **jirawatee/jirawatee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
