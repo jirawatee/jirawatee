@@ -38,8 +38,6 @@ While I am not developing, I like to spend time with my wife and child.
 ![firebase](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![firebase](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jirawatee&theme=slateorange&layout=compact)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jirawatee&show_icons=true&theme=slateorange&hide=issues,contribs)
 
 ## Follow me
