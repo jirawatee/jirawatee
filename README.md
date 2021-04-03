@@ -14,6 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## About me
+I am a software developer with over 10 years of experience. I currently work at LINE Thailand, as a Technology Evangelist. Since discovering Firebase, I have spent most of my time learning about Firebase.
+
+I live in Bangkok, Thailand where I am actively involved in the local Firebase community such as speaking at conferences, writing blog posts and creating code samples all over Thailand. I also founded the largest Thailand Firebase developer group with over 10,000 members.
+
+My passion is to help developers learn and adopt new mobile development methodologies and frameworks like Firebase.
+
+While I am not developing, I like to spend time with my wife and child. 
 
 ## My Badge
 [![gde](https://img.shields.io/badge/-Developers%20Experts-DB4437?style=for-the-badge&logo=google&logoColor=white)][gde]
