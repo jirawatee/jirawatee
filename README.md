@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ## My Badge
 [![gde](https://img.shields.io/badge/-Developers%20Experts-DB4437?style=for-the-badge&logo=google&logoColor=white)][gde]
 
+## Tech Stack
 ![firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white)
 ![gcloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -32,6 +33,7 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jirawatee&theme=slateorange&layout=compact)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jirawatee&show_icons=true&theme=slateorange&hide=issues,contribs)
 
+## Follow me
 <a href="https://line.me/ti/p/~jirawatee"><img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white"></a>
 <a href="https://twitter.com/jirawatee"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://linkedin.com/in/jirawatee/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
