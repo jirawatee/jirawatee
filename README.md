@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jirawatee&show_icons=true&theme=slateorange&hide=issues,contribs)
 
 ## Follow me
-[![line](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)][line]
+[![line](https://img.shields.io/badge/Line-00C300?style=flat&logo=line&logoColor=white)][line]
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][twitter]
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 [![fb](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)][fb]
