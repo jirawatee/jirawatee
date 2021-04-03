@@ -36,12 +36,12 @@ Here are some ideas to get you started:
 
 ## Follow me
 [![line](https://img.shields.io/badge/Line-00C300?style=flat&logo=line&logoColor=white)][line]
-[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][twitter]
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
-[![fb](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)][fb]
-[![if](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][ig]
-[![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)][medium]
-[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)][youtube]
+[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)][twitter]
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)][linkedin]
+[![fb](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)][fb]
+[![if](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)][ig]
+[![medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)][medium]
+[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)][youtube]
 
 [gde]: https://developers.google.cn/community/experts/directory/profile/profile-jirawat_karanwittayakarn
 [line]: https://line.me/ti/p/~jirawatee
