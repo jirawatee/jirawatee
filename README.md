@@ -1,19 +1,3 @@
-<!--
-### Hi there 👋
-**jirawatee/jirawatee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## About me
 I am a software developer with over 10 years of experience. I currently work at LINE Thailand, as a Technology Evangelist. Since discovering Firebase, I have spent most of my time learning about Firebase.
 
@@ -39,7 +23,7 @@ While I am not developing, I like to spend time with my wife and child.
 ![firebase](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## Public speaking
-- a
+- 🇲🇲
 - b
 
 ## Contact me
