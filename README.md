@@ -40,7 +40,7 @@ While I am not developing, I like to spend time with my wife and child.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jirawatee&show_icons=true&theme=slateorange&hide=issues,contribs)
 
-## Follow me
+## Contact me
 [![line](https://img.shields.io/badge/Line-00C300?style=flat&logo=line&logoColor=white)][line]
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)][twitter]
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)][linkedin]
