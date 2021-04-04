@@ -32,13 +32,13 @@ While I am not developing, I like to spend time with my wife and child.
 - 🇵🇭 Bringing powerful machine learning features to your app (2018)
 
 ## Contact me
-[![line](https://img.shields.io/badge/LINE-00C300?style=flat-square&logo=line&logoColor=white)][line]
-[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)][twitter]
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)][linkedin]
-[![fb](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)][fb]
-[![if](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)][ig]
-[![medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)][medium]
-[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)][youtube]
+[![line](https://img.shields.io/badge/LINE-00C300?style=flat&logo=line&logoColor=white)][line]
+[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)][twitter]
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)][linkedin]
+[![fb](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)][fb]
+[![if](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)][ig]
+[![medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)][medium]
+[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)][youtube]
 
 [gde]: https://developers.google.cn/community/experts/directory/profile/profile-jirawat_karanwittayakarn
 [line]: https://line.me/ti/p/~jirawatee
