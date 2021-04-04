@@ -32,7 +32,7 @@ While I am not developing, I like to spend time with my wife and child.
 - 🇵🇭 Bringing powerful machine learning features to your app (2018)
 
 ## Contact me
-[![line](https://img.shields.io/badge/Line-00C300?style=flat&logo=line&logoColor=white)][line]
+[![line](https://img.shields.io/badge/LINE-00C300?style=flat&logo=line&logoColor=white)][line]
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)][twitter]
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)][linkedin]
 [![fb](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)][fb]
