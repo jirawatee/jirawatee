@@ -26,11 +26,11 @@ While I am not developing, I like to spend time with my wife and child.
 - 🇲🇾 What's New in Firebase (2019)
 - 🇲🇲 [ML Kit: Machine Learning for Mobile Developers in DroidYangon (2019)](https://droidyangon.org/speakers/)
 - 🇸🇬 [Scheduling a job using Cloud Functions for Firebase in Cloud Next'19 Extended (2019)](https://www.meetup.com/BigDataX/events/261137228)
+- 🇹🇭 [What's New in ML Kit for Firebase in Google I/O'19 Extended (2019)](https://youtu.be/sRlP-KMgDWc)
 - 🇱🇦 [Building Chatbot using Dialogflow and Firebase in DevFest Vientiane (2018)](https://www.eventbrite.com/e/devfest-vientiane-2018-tickets-51117087585)
 - 🇯🇵 [Building your Android app faster and smaller than ever in LINE Developer Day (2018)](https://youtu.be/tfBIkBbQBbE)
 - 🇮🇩 [Bringing powerful machine learning features to your app in Cloud Next'18 Extended (2018)](https://youtu.be/cZRuob-8JU8)
 - 🇵🇭 Bringing powerful machine learning features to your app (2018)
-- 🇹🇭 [What's New in ML Kit for Firebase in Google I/O'19 Extended](https://youtu.be/sRlP-KMgDWc)
 
 ## Contact me
 [![line](https://img.shields.io/badge/LINE-00C300?style=flat&logo=line&logoColor=white)][line]
