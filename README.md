@@ -21,7 +21,7 @@ While I am not developing, I like to spend time with my wife and child.
 ![firebase](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![firebase](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-## Oversea public speaking
+## public speaking
 - 🇻🇳 What's New in Firebase (2019)
 - 🇲🇾 What's New in Firebase (2019)
 - 🇲🇲 [ML Kit: Machine Learning for Mobile Developers in DroidYangon (2019)](https://droidyangon.org/speakers/)
@@ -30,6 +30,7 @@ While I am not developing, I like to spend time with my wife and child.
 - 🇯🇵 [Building your Android app faster and smaller than ever in LINE Developer Day (2018)](https://youtu.be/tfBIkBbQBbE)
 - 🇮🇩 [Bringing powerful machine learning features to your app in Cloud Next'18 Extended (2018)](https://youtu.be/cZRuob-8JU8)
 - 🇵🇭 Bringing powerful machine learning features to your app (2018)
+- 🇹🇭 [What's New in ML Kit for Firebase 2019 in Google I/O'19 Extended](https://youtu.be/sRlP-KMgDWc)
 
 ## Contact me
 [![line](https://img.shields.io/badge/LINE-00C300?style=flat&logo=line&logoColor=white)][line]
