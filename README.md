@@ -40,7 +40,7 @@ While I am not developing, I like to spend time with my wife and children.
 [![medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)][medium]
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)][youtube]
 
-[gde]: https://developers.google.cn/community/experts/directory/profile/profile-jirawat_karanwittayakarn
+[gde]: https://developers.google.com/community/experts/directory/profile/profile-jirawat_karanwittayakarn
 [line]: https://line.me/ti/p/~jirawatee
 [twitter]: https://twitter.com/jirawatee
 [linkedin]: https://linkedin.com/in/jirawatee
