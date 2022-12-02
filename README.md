@@ -21,6 +21,7 @@ While I am not developing, I like to spend time with my wife and children.
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Public speaking
+- 🇧🇳 Protect your backends with Firebase App Check (2022)
 - 🇻🇳 What's New in Firebase in Google I/O Extended Mekong (2019)
 - 🇲🇾 Building Chatbot using Dialogflow and Firebase in DevFest George Town (2019)
 - 🇲🇲 [ML Kit: Machine Learning for Mobile Developers in DroidYangon (2019)](https://droidyangon.org/speakers/)
