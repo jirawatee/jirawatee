@@ -1,7 +1,7 @@
 ## About me
 I am a software developer with over 10 years of experience. I currently work at LINE Thailand, as a Technology Evangelist. Since discovering Firebase, I have spent most of my time learning about Firebase.
 
-I live in Bangkok, Thailand where I am actively involved in the local Firebase community such as speaking at conferences, writing blog posts and creating code samples all over Thailand. I also founded the largest Thailand Firebase developer group with over 10,000 members.
+I live in Bangkok, Thailand where I am actively involved in the local Firebase community such as speaking at conferences, writing blog posts and creating code samples all over Thailand. I also founded the largest Thailand Firebase developer group with over 12,000 members.
 
 My passion is to help developers learn and adopt new mobile development methodologies and frameworks like Firebase.
 
