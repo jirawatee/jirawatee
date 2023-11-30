@@ -23,7 +23,7 @@ While I am not developing, I like to spend time with my wife and children.
 ## Public speaking
 - 🇲🇾 [Say Hello to Cloud Functions for Firebase 2nd Gen at Google I/O Extended George Town (2023)](https://gdg.community.dev/events/details/google-gdg-george-town-presents-google-io-extended-george-town-2023/)
 - 🇧🇳 [Protect your backends with Firebase App Check at DevFest Brunei (2022)](https://gdg.community.dev/events/details/google-gdg-brunei-darussalam-presents-devfest-brunei-2022)
-- 🇻🇳 What's New in Firebase at Google I/O Extended Mekong (2019)
+- 🇻🇳 [Say Hello to Cloud Functions for Firebase 2nd Gen at DevFest Ho Chi Minh City (2023)](https://gdg.community.dev/events/details/google-gdg-ho-chi-minh-city-presents-gdg-devfest-2023-in-ho-chi-minh-city/)
 - 🇲🇲 [ML Kit: Machine Learning for Mobile Developers at DroidYangon (2019)](https://droidyangon.org/speakers/)
 - 🇸🇬 [Scheduling a job using Cloud Functions for Firebase at Cloud Next Extended (2019)](https://www.meetup.com/BigDataX/events/261137228)
 - 🇹🇭 [What's New in ML Kit for Firebase at Google I/O Extended Bangkok (2019)](https://youtu.be/sRlP-KMgDWc)
