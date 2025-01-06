@@ -27,7 +27,7 @@ While I am not developing, I like to spend time with my wife and children.
 - 🇲🇲 [ML Kit: Machine Learning for Mobile Developers at DroidYangon (2019)](https://droidyangon.org/speakers/)
 - 🇸🇬 [Say Hello to Cloud Functions for Firebase 2nd Gen at DevFest Singapore (2023)](https://sites.google.com/view/devfest-singapore-2023/speakers)
 - 🇹🇭 [What's New in ML Kit for Firebase at Google I/O Extended Bangkok (2019)](https://youtu.be/sRlP-KMgDWc)
-- 🇱🇦 [Building Chatbot using Dialogflow and Firebase at DevFest Vientiane (2018)](https://www.eventbrite.com/e/devfest-vientiane-2018-tickets-51117087585)
+- 🇱🇦 [What's New in Firebase at DevFest Vientiane (2024)](https://gdg.community.dev/events/details/google-gdg-vientiane-presents-devfest-vientiane-2024/)
 - 🇯🇵 [Building your Android app faster and smaller than ever at LINE Developer Day (2018)](https://youtu.be/tfBIkBbQBbE)
 - 🇮🇩 [Bringing powerful machine learning features to your app at Cloud Next Extended Jakarta (2018)](https://youtu.be/cZRuob-8JU8)
 - 🇵🇭 Bringing powerful machine learning features to your app at Google I/O Extended Cebu (2018)
