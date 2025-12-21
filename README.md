@@ -31,6 +31,7 @@ While I am not developing, I like to spend time with my wife and children.
 - 🇯🇵 [Building your Android app faster and smaller than ever at LINE Developer Day (2018)](https://youtu.be/tfBIkBbQBbE)
 - 🇮🇩 [Bringing powerful machine learning features to your app at Cloud Next Extended Jakarta (2018)](https://youtu.be/cZRuob-8JU8)
 - 🇵🇭 Bringing powerful machine learning features to your app at Google I/O Extended Cebu (2018)
+- 🇵🇰 [From Live Coding to Vibe Coding with Firebase Studio at DevFest Pakistan (2025)](https://gdg.community.dev/events/details/google-gdg-live-pakistan-presents-devfest-pakistan25)
 
 ## Contact me
 [![line](https://img.shields.io/badge/LINE-00C300?style=flat&logo=line&logoColor=white)][line]
